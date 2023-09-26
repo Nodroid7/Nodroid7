@@ -1,3 +1,5 @@
+ ![profile](/img/goldsea.png)
+ 
 ## Hello!, I am an alchemist🧪!
 <div align="center">
  <a href="https://github.com/GoldSea7">
